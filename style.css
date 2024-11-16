@@ -533,7 +533,7 @@ body {
 }
 
 .commands__command {
-  text-wrap: nowrap;
+  white-space: nowrap;
   text-overflow: ellipsis;
   overflow: hidden;
   line-height: 29px;
@@ -858,7 +858,7 @@ body {
 .shop__card_copy_text {
   width: 142px;
   overflow: hidden;
-  text-wrap-mode: nowrap;
+  white-space: nowrap;
   text-overflow: ellipsis;
 }
 
